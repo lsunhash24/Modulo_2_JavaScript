@@ -1,0 +1,53 @@
+
+h2 {
+    color:blueviolet;
+    font-size: 2rem;
+}  
+
+H1 {
+    color: #075893;
+    font-size: 3rem;
+}
+
+#tiempoRestante {
+    background-image: url(../img/image1.jpg);
+    width: 50%;
+    height: 10rem;
+    border-style: ridge;
+    border: #075893;
+    border-image: fill;
+}
+
+#tiempoRestante p {
+    width: 100%;
+    font-size: 1.3rem;
+    height: auto;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin: 4rem 0 0 0.5rem;
+    color:#000;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-style: italic;
+    overflow-wrap: break-word; 
+  
+}
+footer{
+    display: flex;
+    justify-content: center;
+    text-align: center;
+
+   
+}
+footer p {
+    color:#075893;
+    font-size: 20px;
+    font-family: Arial Narrow;
+}
+
+/* regla de medio que le da margen a las columnas de la segunda fila 
+cuando se apilan en el nivel <576px*/
+ @media only screen and (max-width: 768px) {
+
+ }
+

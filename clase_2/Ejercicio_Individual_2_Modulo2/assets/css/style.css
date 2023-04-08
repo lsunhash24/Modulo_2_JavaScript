@@ -1,0 +1,13 @@
+body {
+    background-color: rgb(136, 136, 177);
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+h1 {
+    text-align: center;
+    text-transform:uppercase;
+    color: #290707;
+}
+h2 {
+    text-align: center;
+    color: #290707;
+}
