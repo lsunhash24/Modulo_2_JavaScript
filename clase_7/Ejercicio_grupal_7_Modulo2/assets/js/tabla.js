@@ -37,5 +37,5 @@
                 { title: 'Precio Venta' },
             ],
         });
-        clearInterval
+        
     });
